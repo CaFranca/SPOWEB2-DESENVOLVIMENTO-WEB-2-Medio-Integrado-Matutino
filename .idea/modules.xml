@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Modulo_03-JDE_JDK/Modulo_03-JDE_JDK.iml" filepath="$PROJECT_DIR$/Modulo_03-JDE_JDK/Modulo_03-JDE_JDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo_04-Scanner_e_Condicionais/Modulo_04-Scanner_e_Condicionais.iml" filepath="$PROJECT_DIR$/Modulo_04-Scanner_e_Condicionais/Modulo_04-Scanner_e_Condicionais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SPOWEB2---DESENVOLVIMENTO-WEB-2.iml" filepath="$PROJECT_DIR$/.idea/SPOWEB2---DESENVOLVIMENTO-WEB-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software_de_Inventario-entrega parcial/Software_de_Inventario-entrega parcial.iml" filepath="$PROJECT_DIR$/Software_de_Inventario-entrega parcial/Software_de_Inventario-entrega parcial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/entrega_final-Avaliação_4_Bimestre/entrega_final-Avaliação_4_Bimestre.iml" filepath="$PROJECT_DIR$/entrega_final-Avaliação_4_Bimestre/entrega_final-Avaliação_4_Bimestre.iml" />
+    </modules>
+  </component>
+</project>
